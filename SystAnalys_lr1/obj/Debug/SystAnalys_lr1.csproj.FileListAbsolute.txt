@@ -1,0 +1,64 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\vscode\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\Igor\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+C:\Users\Игорь\Desktop\SystAnalys_lr1\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.aboutForm.resources
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form2.resources
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.AssemblyReference.cache
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.SuggestedBindingRedirects.cache
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form1.resources
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.GenerateResource.cache
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.csproj.CoreCompileInputs.cache
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form2.resources
+E:\labs\OTIS\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form3.resources
+C:\Users\USER\Desktop\2курс\отис\лаба5\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Form3.resources
